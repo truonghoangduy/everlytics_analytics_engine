@@ -1,0 +1,1 @@
+WIP locate all share packages, cli tools, code gen for the idea
